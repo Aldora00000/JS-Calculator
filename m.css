@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray !important;
+}
+#m-c{
+    border: 2px solid white;
+    border-radius: 35px;
+    background-color: black !important;
+    width: 300px;
+    margin: 75px 100px !important;
+}
+#display{
+    border: none;
+    background-color: black !important;
+    color: #ffffff !important;
+    text-align: right;
+    font-size: 50px;
+}
+.btnz{
+    border: none;
+    border-radius: 50% !important;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(185, 198, 200);
+    margin: 3px 7px !important;
+    
+}
+.btM{
+    background-color: gray;
+    color: white;
+}
+.btnR{
+    background-color: rgb(235, 132, 14);
+    color: white;
+}
+.zero{
+    border-radius: 25px !important;
+    padding: 15px 60px;
+}
